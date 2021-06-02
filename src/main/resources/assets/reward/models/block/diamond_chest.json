@@ -1,0 +1,7 @@
+{
+    "parent": "reward:block/chest_template",
+    "textures": {
+        "0": "reward:entity/chest/diamond_chest",
+        "particle": "reward:block/diamond_break"
+    }
+}

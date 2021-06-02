@@ -1,0 +1,9 @@
+{
+  "_comment": "Blocks",
+  "block.reward.holiday_chest": "Holiday Chest",
+  "block.reward.daily_chest": "Daily Chest",
+  "block.reward.diamond_chest": "Diamond Chest",
+
+  "_comment": "Item Groups",
+  "itemGroup.reward.reward": "Reward Chests"
+}

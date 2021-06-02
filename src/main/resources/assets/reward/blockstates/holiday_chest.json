@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "reward:block/holiday_chest" },
+        "facing=east":  { "model": "reward:block/holiday_chest", "y":  90},
+        "facing=south": { "model": "reward:block/holiday_chest", "y": 180 },
+        "facing=west":  { "model": "reward:block/holiday_chest", "y": 270 }
+    }
+}

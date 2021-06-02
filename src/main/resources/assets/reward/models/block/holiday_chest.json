@@ -1,0 +1,7 @@
+{
+    "parent": "reward:block/chest_template",
+    "textures": {
+        "0": "minecraft:entity/chest/christmas",
+        "particle": "reward:block/holiday_break"
+    }
+}
